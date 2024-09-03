@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c02f6e8d-6835-49f9-944d-7fcfb2eb55ab" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2jmMdRnKhmGjVZzWDbGSJcfWs3A" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/days06/src/com/atguigu/test1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/days21/src/com/atguigu/test1" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program Files\JetBrains\project220309\days21\src\com\atguigu\test1" />
+      <recent name="D:\Program Files\JetBrains\project220309\days20\src\com\atguigu\test3" />
+      <recent name="D:\Program Files\JetBrains\project220309\days14\src\com\atguigu\test3" />
+      <recent name="D:\Program Files\JetBrains\project220309\days14_1\src" />
+      <recent name="D:\Program Files\JetBrains\project220309\day14\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TestFive">
+    <configuration name="TestFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.test2.TestFive" />
+      <module name="days21" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.test2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.test2.TestFour" />
+      <module name="days21" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.test2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.test2.TestOne" />
+      <module name="days21" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.test2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.test2.TestThree" />
+      <module name="days21" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.test2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.test2.TestTwo" />
+      <module name="days21" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.test2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestFive" />
+        <item itemvalue="Application.TestFour" />
+        <item itemvalue="Application.TestThree" />
+        <item itemvalue="Application.TestTwo" />
+        <item itemvalue="Application.TestOne" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c02f6e8d-6835-49f9-944d-7fcfb2eb55ab" name="Default Changelist" comment="" />
+      <created>1721987886109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721987886109</updated>
+      <workItem from="1721987888635" duration="138000" />
+      <workItem from="1721988049278" duration="1230000" />
+      <workItem from="1721989354869" duration="39000" />
+      <workItem from="1721990119347" duration="389000" />
+      <workItem from="1721990796249" duration="16000" />
+      <workItem from="1721990859779" duration="4000" />
+      <workItem from="1721995098974" duration="4000" />
+      <workItem from="1722005129427" duration="236000" />
+      <workItem from="1722077819164" duration="1114000" />
+      <workItem from="1722475571724" duration="16959000" />
+      <workItem from="1722582349976" duration="8488000" />
+      <workItem from="1722602383879" duration="6763000" />
+      <workItem from="1722650334798" duration="14794000" />
+      <workItem from="1722695462023" duration="3498000" />
+      <workItem from="1722730536412" duration="15179000" />
+      <workItem from="1722818605290" duration="17001000" />
+      <workItem from="1722861737282" duration="10177000" />
+      <workItem from="1722906820340" duration="3777000" />
+      <workItem from="1722929840738" duration="4709000" />
+      <workItem from="1722949640555" duration="197000" />
+      <workItem from="1722950181691" duration="9983000" />
+      <workItem from="1722993125443" duration="7682000" />
+      <workItem from="1723018340696" duration="4829000" />
+      <workItem from="1723042557070" duration="5504000" />
+      <workItem from="1723078797856" duration="18306000" />
+      <workItem from="1723126025371" duration="5497000" />
+      <workItem from="1723163008290" duration="7290000" />
+      <workItem from="1723185882913" duration="1203000" />
+      <workItem from="1723193693482" duration="4923000" />
+      <workItem from="1723205112316" duration="4461000" />
+      <workItem from="1723250027540" duration="3561000" />
+      <workItem from="1723254131981" duration="18263000" />
+      <workItem from="1724747625977" duration="432000" />
+      <workItem from="1724753673531" duration="338000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
